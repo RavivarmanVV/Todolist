@@ -328,7 +328,7 @@ li button {
 }
 ```
 # OUTPUT
-![alt text](image-1.png)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/df3d29ca-bada-4a83-a287-0341eb7d8c63" />
 
 # RESULT
 The program for creating To-do list using JavaScript is executed successfully.
